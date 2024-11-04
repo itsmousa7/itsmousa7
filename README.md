@@ -2,7 +2,7 @@
 -👀 Passionate about coding, 
     especially mobile app development.
 
--🌱 Currently diving deeper into Flutter
+-👨🏽‍💻 Currently diving deeper into Flutter
      and exploring new tech trends.
 
 -💞️ Open to collaborations on mobile apps
